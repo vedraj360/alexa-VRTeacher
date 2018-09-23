@@ -1,0 +1,22 @@
+{
+  "name": "poem-skill",
+  "version": "1.0.0",
+  "description": "alexa",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.9",
+    "ask-sdk": "^2.0.9",
+    "ask-sdk-model": "^1.5.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC"
+}
